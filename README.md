@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### WHAT I LIKE
 
-- ⚽ Watching sports
+- ⚽ Watching Sports
 - 🎬 Watching Movies
 - 📚 Reading Books    
 - ️✈️ Traveling
