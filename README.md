@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 <div align="Center">
 <p align='Center'>
 
-### 🔆 TODAY VISITED 🔆
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZzinB&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ZzinB)
-
 
 ### 📞 HOW TO CONTACT ME 📞
 <a href="https://myste-leee.tistory.com/"> 
@@ -52,8 +48,7 @@ Here are some ideas to get you started:
          
 ### WHO AM I
 
-- 🌱 I’m currently learning __Java__ and __Spring__
-- 🏁 I hope to be a __backend developer__.
+- 🌱 I’m currently learning __Python__ 
 - 😄 I love to __learn__ and __experience__ new things.
 
 ### WHAT I LIKE
